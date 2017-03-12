@@ -1,2 +1,2 @@
 # Hotel-Database-Management-System
-Hotel DataBase management system based on concepts of Object Oriented Programming 
+Hotel Database Management system based on concepts of Object Oriented Programming 
